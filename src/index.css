@@ -1,0 +1,4 @@
+:root { --ink: #21302b; --muted: #75827b; --muted-light: #9ca69f; --line: #dce2d9; --cream: #fbf6e9; --sage: #dce9dc; --yellow: #f3d75b; --coral: #dc5f4a; --teal: #3c8b7c; --body: 'DM Sans', 'Segoe UI', sans-serif; --display: 'Fraunces', Georgia, serif; font: 16px/1.4 var(--body); color: var(--muted); background: #f8f8f2; font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; }
+* { box-sizing: border-box; }
+body { min-width: 320px; min-height: 100vh; margin: 0; background: radial-gradient(circle at 15% 10%, rgba(243, 215, 91, .16), transparent 28%), #f8f8f2; }
+button { font: inherit; }
